@@ -1,0 +1,6 @@
+{
+  "name": "ELIAS NET - استعادة كروت المبادرة القديمة",
+  "description": "منصة استخراج واستعادة الكروت غير المستخدمة من ديلر المبادرة وإعادة بيعها بطريقة آلية وسريعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
